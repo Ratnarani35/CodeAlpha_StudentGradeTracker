@@ -1,0 +1,16 @@
+========================================
+       STUDENT GRADE TRACKER
+========================================
+1. Add Student
+2. View All Students
+3. Search Student
+4. Class Summary
+5. Exit
+Enter your choice: 2
+
+---------------- STUDENT REPORT ----------------
+Name               Total      Average    Grade
+-------------------------------------------------
+Ananya             441.00     88.20      A
+Rahul              359.00     71.80      B
+Priya              469.00     93.80      A+

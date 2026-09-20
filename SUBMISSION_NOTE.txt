@@ -1,0 +1,6 @@
+CodeAlpha Java Programming Internship
+Student: Mutluri Ratnarani
+Student ID: CA/DF1/249537
+
+Upload the complete contents of this project folder to the corresponding GitHub repository.
+Do not upload only the README or only the PDF. The Java source files are the main project deliverable.
